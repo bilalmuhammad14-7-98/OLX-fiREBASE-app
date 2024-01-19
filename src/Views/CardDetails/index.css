@@ -1,0 +1,32 @@
+.MainDivv{
+    margin-top: 40px;
+    margin-left: 110px;
+    width: 50%;
+    
+}
+
+.image-library{
+    border: 1px solid rgb(158, 145, 145);
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 10px rgb(231, 211, 211);
+
+}
+.details{
+    border: 1px solid rgb(158, 145, 145);
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 10px rgb(231, 211, 211);
+}
+span{
+    font-weight: 600;
+}
+p{
+    color: rgb(117, 112, 112);
+    text-align: end;
+    font-size: 15px;
+}
+  

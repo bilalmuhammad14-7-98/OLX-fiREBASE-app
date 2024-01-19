@@ -1,0 +1,130 @@
+.mainHeader {
+  width: 100%;
+  background-color: #f7f8f8;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 0 solid #f2f4f5;
+}
+.topSection {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.logo-1 {
+  padding-left: 7.8%;
+  fill: #3a77ff;
+}
+.icons {
+  margin-left: 40px;
+}
+.icons:hover {
+  fill: #3a77ff;
+}
+.NavbarSection {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+.logo-2 {
+  padding-left: 7.8%;
+}
+.input-1 {
+  display: flex;
+  align-items: center;
+  border: 2px solid black;
+  height: 45px;
+  width: 20%;
+  margin-left: 2%;
+  border-radius: 5px;
+  background-color: white;
+}
+.search-icon {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+input {
+  border: none;
+  margin-left: 30px;
+  height: 40px;
+  width: 100%;
+  font-size: 16px;
+}
+.input-2 {
+  display: flex;
+  align-items: center;
+  border: 2px solid black;
+  height: 45px;
+  width: 42%;
+  margin-left: 1.5%;
+  border-radius: 5px;
+  background-color: white;
+}
+.search-icon-2{
+    padding: 7.8px;
+    background-color: black;
+}
+.search-icon-2>svg{
+    fill: white;
+}
+.login{
+    margin-left: 1.4%;
+}
+.login>button{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: underline;
+}
+.sell{
+    margin-left: 0.7%;
+}
+.sell>button{
+    border: none;
+    background-color: transparent;
+}
+.sell>button>span{
+    position: relative;
+    top: 0px;
+    left: -80px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.y{
+    font-size: 20px;
+    margin-right: 2px;
+}
+.Navbar-Bottom{
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.1);
+}
+.categories{
+    display: flex;
+    align-items: center;
+    padding-left: 7.8%;
+}
+.categories>span{
+    font-weight: 650;
+    font-size: ;
+}
+.categories>svg{
+    margin-left: 5px;
+}
+.categories-2{
+    margin-left: 22px;
+}
+.categories-2>a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    /* font-weight: 500; */
+}
